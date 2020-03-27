@@ -1,4 +1,4 @@
-#!/usr/bin/python3.6
+#!/usr/bin/python3.8
 
 import socket
 import sys
@@ -60,4 +60,3 @@ if portformat == "list":
 
 print("\r\n"
       "Port scan has completed, any open ports/banners are displayed.")
- 
